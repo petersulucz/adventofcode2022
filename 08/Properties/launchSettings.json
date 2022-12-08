@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "08": {
+      "commandName": "Project",
+      "commandLineArgs": "./test-simple.txt"
+    }
+  }
+}
